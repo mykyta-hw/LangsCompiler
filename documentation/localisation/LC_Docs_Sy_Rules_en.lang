@@ -1,1 +1,22 @@
+en
+LC-Docs-Sy-Rules-1::Syntax rules have been made to make it easier to parse the sequence in a file.
+The essence is in the bytes/symbols that go sequentially in the file. And the rules check whether the sequence of bytes/symbols is correctly observed.
 
+But the compiler uses a Lexer, and instead of dry bytes or symbols, it groups them into tokens.
+Therefore, the rules check the sequence of tokens.;;
+LC-Docs-Sy-Rules-2::Lexer Reminder: ;;
+LC-Docs-Sy-Rules-3::The rules consist of: the type of object it will return if successful, its name, and elements, and ends with a line break character.;
+LC-Docs-Example: ::Example: ;;
+LC-Docs-Sy-Rules-4::"literal";;
+LC-Docs-Sy-Rules-5::"literal b";;
+LC-Docs-Sy-Rules-6::More details are described on the following pages.;;
+LC-Docs-Elements: ::Elements: ;;
+LC-Docs-Return-Type: ::Return type: ;;
+LC-Docs-Examples: ::Examples: ;;
+
+
+LC-Docs-Sy-Elements-1::Elements are checked or executed in turn. When an element fails the check, some token does not match the value of a literal, for example. The execution of the rule ends.
+
+All elements:;;
+LC-Docs-Sy-Elements-2::"Literal";;
+LC-Docs-Sy-Elements-3::"literal";;
