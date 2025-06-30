@@ -1,0 +1,11 @@
+test
+"--------------------------------------------" [DarkGray]
+"text", " ", "text", " ", \key\, " " [-, -, -, -, Red, -]
+\Uni-Docs-MainPage-Hello\ [-]
+\Uni-Docs-MainPage-Line-1\ [-]
+"doc", " ", \Uni-Docs-MainPage-Line-2\ [DarkGray, -, -]
+"li", " ", \Uni-Docs-MainPage-Line-3\ [DarkGray, -, -]
+"     ", "████", "████", "████", "████", "████", "████", "████", "████" [-, DarkGray, DarkBlue, DarkGreen, DarkCyan, DarkRed, DarkMagenta, DarkYellow, Gray]
+"     ", "████", "████", "████", "████", "████", "████", "████", "████" [-, DarkGray, DarkBlue, DarkGreen, DarkCyan, DarkRed, DarkMagenta, DarkYellow, Gray]
+"     ", "████", "████", "████", "████", "████", "████", "████", "████" [-, Black, Blue, Green, Cyan, Red, Magenta, Yellow, White]
+"     ", "████", "████", "████", "████", "████", "████", "████", "████" [-, Black, Blue, Green, Cyan, Red, Magenta, Yellow, White]

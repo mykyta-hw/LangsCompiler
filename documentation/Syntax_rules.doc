@@ -1,0 +1,11 @@
+Syntax rules
+"------------------------------------------" [DarkGray]
+\LC-Docs-Sy-Rules-1\ [-]
+\LC-Docs-Sy-Rules-2\, "Lexer", NewLine [-, DarkGray]
+\LC-Docs-Sy-Rules-3\, NewLine [-]
+\LC-Docs-Example: \ [-]
+"type ", "name ", "=> ", \LC-Docs-Sy-Rules-4\, ", ", \LC-Docs-Sy-Rules-5\, NewLine [Blue, Cyan, -, Green, -, Green]
+\LC-Docs-Sy-Rules-6\ [-]
+\LC-Docs-Elements: \, "Sy Elements" [-, DarkGray]
+\LC-Docs-Return-Type: \, "Sy Return Type" [-, DarkGray]
+\LC-Docs-Examples: \, "Sy Examples" [-, DarkGray]
